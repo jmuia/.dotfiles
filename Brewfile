@@ -1,0 +1,28 @@
+cask_args appdir: '/Applications'
+
+tap 'caskroom/cask'
+tap 'homebrew/python'
+
+brew 'git'
+brew 'postgres'
+brew 'aws-elasticbeanstalk'
+brew 'app-engine-python'
+brew 'heroku'
+brew 'jq'
+brew 'node'
+brew 'python'
+brew 'zsh'
+brew 'homebrew/python/numpy'
+
+cask 'java'
+cask 'pycharm'
+cask 'iterm2'
+cask 'flux'
+cask 'google-chrome'
+cask 'slack'
+cask 'spotify'
+cask 'karabiner'
+cask 'vlc'
+cask 'sublime-text'
+cask 'ngrok'
+# cask Amphetamine
