@@ -28,5 +28,5 @@ cask 'ngrok'
 cask 'amethyst'
 cask 'lastpass'
 
-mas 'Amphetamine, id: 937984704
+mas 'Amphetamine', id: 937984704
 
