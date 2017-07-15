@@ -1,5 +1,6 @@
 cask_args appdir: '/Applications'
 
+tap 'Homebrew/bundle'
 tap 'caskroom/cask'
 tap 'homebrew/python'
 
@@ -12,6 +13,7 @@ brew 'node'
 brew 'python'
 brew 'zsh'
 brew 'homebrew/python/numpy'
+brew 'mas'
 
 cask 'java'
 cask 'pycharm'
@@ -19,9 +21,12 @@ cask 'iterm2'
 cask 'flux'
 cask 'google-chrome'
 cask 'slack'
-cask 'spotify'
-cask 'karabiner'
+cask 'karabiner-elements'
 cask 'vlc'
 cask 'sublime-text'
 cask 'ngrok'
-# cask Amphetamine
+cask 'amethyst'
+cask 'lastpass'
+
+mas 'Amphetamine, id: 937984704
+
