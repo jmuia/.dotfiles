@@ -19,6 +19,6 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 
-safe_symlink $PWD/karabiner.json $HOME/.config/karabiner/karabiner.json
+safe_symlink $PWD/karabiner $HOME/.config
 safe_symlink $PWD/gitconfig $HOME/.gitconfig
 
